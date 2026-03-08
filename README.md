@@ -1,7 +1,11 @@
 # Dynamic Task/Habit Manager
 
+
+
 ## Problem It Solves
 Tracks habits and completion streaks with a dynamic number of user-defined tasks.
+
+<img width="1920" height="1080" alt="Untitled design (8)" src="https://github.com/user-attachments/assets/38fb4cf8-76af-493d-907c-eade7117bd08" />
 
 ## Skills Covered
 - Heap allocation with `std::make_unique` for each task
@@ -24,3 +28,4 @@ g++ -std=c++17 -O2 .\src\main.cpp -o habits.exe
 - Save tasks to JSON.
 - Add recurring habits and reminder times.
 - Add weekly progress charts.
+
